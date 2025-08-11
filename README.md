@@ -56,7 +56,7 @@ If you find our work helpful, please consider citing our paper:
   author={Haorui Wang and Jeff Guo and Lingkai Kong and Rampi Ramprasad and Philippe Schwaller and Yuanqi Du and Chao Zhang},
   journal={Forty-Second International Conference on Machine Learning},
   year={2025},
-  url={https://arxiv.org/pdf/2505.07027}
+  url={https://openreview.net/forum?id=NhkNX8jYld}
 }
 
 ```
