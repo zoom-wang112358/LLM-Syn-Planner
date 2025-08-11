@@ -1,6 +1,6 @@
 # LLM-Syn-Planner
 
-[ICML 2025] [LLM-Augmented Chemical Synthesis and Design Decision Programs](https://arxiv.org/pdf/2505.07027)
+[ICML 2025] [LLM-Augmented Chemical Synthesis and Design Decision Programs](https://openreview.net/forum?id=NhkNX8jYld)
 
 
 ## About
